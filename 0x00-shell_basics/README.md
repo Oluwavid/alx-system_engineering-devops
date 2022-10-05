@@ -1,1 +1,1 @@
-This directory contains the command used to show the current working directory.
+This directory contains the answers to all the questions.
